@@ -13,4 +13,4 @@
 
 ## 贡献者
 - Gemini 3.1 pro
-- Claude 4.6 opus
+- Claude opus 4.6
