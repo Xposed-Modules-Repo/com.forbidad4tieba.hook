@@ -85,6 +85,9 @@ com.baidu.tieba
 [提交 issue / PR](https://github.com/aikavvak12una/ForbidAd4TieBa)  
 [加入 TG 群组](https://t.me/+JHa8ARb5mlRlYjYx)
 
+## 致谢
+- 自动签到功能实现参考：[LuoSue/TiebaSignIn-1](https://github.com/LuoSue/TiebaSignIn-1)
+
 ## 免责声明
-本模块仅供学习与技术研究使用，请勿用于任何违反法律法规的用途。
+本模块仅供学习与技术研究使用，请勿用于任何违反法律法规的用途。  
 使用本模块可能出现应用卡顿、闪退、账号被封禁等问题，因此在安装使用前应仔细审查[源代码](https://github.com/aikavvak12una/ForbidAd4TieBa)，作者不对使用本模块造成的任何后果承担责任。
