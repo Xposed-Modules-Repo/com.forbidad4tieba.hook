@@ -86,7 +86,7 @@ com.baidu.tieba
 [加入 TG 群组](https://t.me/+JHa8ARb5mlRlYjYx)
 
 ## 致谢
-- 自动签到功能实现参考：[LuoSue/TiebaSignIn-1](https://github.com/LuoSue/TiebaSignIn-1)
+自动签到功能实现参考：[LuoSue/TiebaSignIn-1](https://github.com/LuoSue/TiebaSignIn-1)
 
 ## 免责声明
 本模块仅供学习与技术研究使用，请勿用于任何违反法律法规的用途。  
