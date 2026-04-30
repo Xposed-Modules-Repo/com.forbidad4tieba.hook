@@ -16,7 +16,6 @@ com.baidu.tieba
 
 启用后强制停止并重新打开贴吧
 
-未root设备尝试使用npatch、lspatch、fpa
 
 ## 设置入口
 
